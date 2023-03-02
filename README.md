@@ -2,6 +2,12 @@
 
 ## Objective
 
+   Goal of the project is to assist Basil and Sadhana by creating earthquake map visual to showcase below corelated information
+   
+   - Tectonic plates location
+   - Mark major earthquakes (>4.5 magnitude)
+
+
 
 ## Summary
 
